@@ -69,37 +69,37 @@
 
 ### 预览效果
 登陆页面
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/login.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/login.PNG)
 部门管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/dept.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/dept.PNG)
 菜单管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/menu.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/menu.PNG)
 权限管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/permission.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/permission.PNG)
 角色管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/role.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/role.PNG)
 用户管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/user.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/user.PNG)
 登陆日志管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/loginfo.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/loginfo.PNG)
 系统公告管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/notice.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/notice.PNG)
 缓存管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/cache.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/cache.PNG)
 客户管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/customer.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/customer.PNG)
 供应商管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/provider.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/provider.PNG)
 商品管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/goods.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/goods.PNG)
 商品进货管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/inport.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/inport.PNG)
 商品退货管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/output.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/output.PNG)
 商品销售管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/sales.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/sales.PNG)
 商品销售退货管理
-![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/salesback.PNG)
+![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/salesback.PNG)
 
 ### 讨论
 有问题请在([issue])讨论 或联系我QQ：1784525940，你请注明来意。该项目是开源的，如果clone到本地运行不起来，或者需要我讲解之类的，我可以有偿讲解，伸手党勿加~
