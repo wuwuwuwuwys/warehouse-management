@@ -57,7 +57,7 @@ public class GoodsServiceImpl extends ServiceImpl<GoodsMapper, Goods> implements
     }
 
     /**
-     * 查询所有库存预警商品
+     * 查询所有库存商品
      * @return
      */
     @Override

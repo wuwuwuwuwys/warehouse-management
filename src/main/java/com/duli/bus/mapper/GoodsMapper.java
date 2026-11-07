@@ -54,7 +54,7 @@ public interface GoodsMapper extends BaseMapper<Goods> {
     void deleteSaleBackByCustomerId(Integer id);
 
     /**
-     * 加载所有库存预警商品
+     * 加载所有库存商品
      */
     List<Goods> loadAllWarning();
 }
