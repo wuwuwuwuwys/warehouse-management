@@ -1,5 +1,5 @@
 ## 系统名称 
-仓库管理系统 warehouse 
+基于 yeqifu/warehouse 二次开发的仓库管理系统 warehouse 
 ### 系统概要
 仓库管理系统总共分为两个大的模块，分别是系统模块和业务模块。其中系统模块和业务模块底下又有其子模块。
 ### 功能模块
@@ -101,5 +101,3 @@
 商品销售退货管理
 ![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/salesback.PNG)
 
-### 讨论
-有问题请在([issue])讨论 或联系我QQ：1784525940，你请注明来意。该项目是开源的，如果clone到本地运行不起来，或者需要我讲解之类的，我可以有偿讲解，伸手党勿加~
