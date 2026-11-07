@@ -67,37 +67,4 @@
 * 数据库：MySQL 5.0
 * 代码托管平台：GitHub
 
-### 预览效果
-登陆页面
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/login.PNG)
-部门管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/dept.PNG)
-菜单管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/menu.PNG)
-权限管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/permission.PNG)
-角色管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/role.PNG)
-用户管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/user.PNG)
-登陆日志管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/loginfo.PNG)
-系统公告管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/notice.PNG)
-缓存管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/cache.PNG)
-客户管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/customer.PNG)
-供应商管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/provider.PNG)
-商品管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/goods.PNG)
-商品进货管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/inport.PNG)
-商品退货管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/output.PNG)
-商品销售管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/sales.PNG)
-商品销售退货管理
-![](https://github.com/duli/warehouse/blob/master/src/main/resources/static/images/salesback.PNG)
 
